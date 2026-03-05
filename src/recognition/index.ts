@@ -1,0 +1,13 @@
+export { BaseRecognizer } from './base/BaseRecognizer';
+export { TapRecognizer } from './discrete/TapRecognizer';
+export { DoubleTapRecognizer } from './discrete/DoubleTapRecognizer';
+export { PanRecognizer } from './continuous/PanRecognizer';
+export { PinchRecognizer } from './continuous/PinchRecognizer';
+export { RotationRecognizer } from './continuous/RotationRecognizer';
+export { EdgeSwipeRecognizer } from './spatial/EdgeSwipeRecognizer';
+export { CornerRecognizer } from './spatial/CornerRecognizer';
+export { ShakeRecognizer } from './sensor/ShakeRecognizer';
+export { TiltRecognizer } from './sensor/TiltRecognizer';
+export { WristFlickRecognizer } from './sensor/WristFlickRecognizer';
+export { SequenceRecognizer } from './sequence/SequenceRecognizer';
+export { SymbolRecognizer } from './symbolic/SymbolRecognizer';

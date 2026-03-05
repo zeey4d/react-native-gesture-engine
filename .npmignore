@@ -1,0 +1,11 @@
+src/
+__tests__/
+*.config.ts
+*.config.js
+tsconfig.json
+.eslintrc.js
+.prettierrc
+.github/
+.vscode/
+node_modules/
+coverage/
